@@ -30,9 +30,7 @@ pip install -r requirements.txt
 ---
 
 <p align="center">
-
-&nbsp; <img src="assets/screen.png">
-
+<img src="https://github.com/annadie/Stimmenfaenger/blob/main/assets/screen.png">
 </p>
 
 
