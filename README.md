@@ -1,6 +1,6 @@
 # 🎙️ Stimmenfänger – Real-Time German Speech-to-Text with BERT Attention Analysis
 
-**Stimmenfänger** is a real-time speech-to-text system using [Silero VAD](https://github.com/snakers4/silero-vad) for voice activity detection and Whisper (via `RealTimeSTT`) for transcription. It also includes a BERT-based attention analysis module to highlight which words or tokens are most important in the recognized sentence.
+This project combines real-time speech-to-text transcription with keyword extraction and attention scoring. Using a lightweight speech recognition model, it transcribes spoken German audio, then leverages KeyBERT to identify and score the most relevant keywords from the transcribed text. This tool can be useful for applications like voice-driven search, meeting transcription, or content analysis.
 
 ---
 
