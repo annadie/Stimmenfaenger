@@ -16,11 +16,9 @@ conda activate Stimmenfaenger
 
 
 pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
-
 pip install Keybert
 pip install sentence-transformers
 pip install RealtimeSTT
-pip install torchaudio
 pip install PyTorch
 
 --
