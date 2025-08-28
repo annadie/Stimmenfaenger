@@ -29,5 +29,11 @@ pip install -r requirements.txt
 
 ---
 
+<p align="center">
+
+&nbsp; <img src="assets/screen.png">
+
+</p>
+
 
 
