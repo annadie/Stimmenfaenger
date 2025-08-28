@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <img src="https://github.com/annadie/Stimmenfaenger/blob/main/assets/screen.png">
 </p>
 
@@ -33,9 +33,6 @@ pip install -r requirements.txt
 
 ---
 
-<p align="center">
-<img src="https://github.com/annadie/Stimmenfaenger/blob/main/assets/screen.png">
-</p>
 
 
 
